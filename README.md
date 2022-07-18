@@ -1,3 +1,3 @@
 # Customer Segmentation
 
-Analytical insights on various segment flags
+Analytical insights and prediction for various segment flags
